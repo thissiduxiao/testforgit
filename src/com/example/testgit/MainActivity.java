@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		/**
 		 * this is the test for git is github change?
+		 * DUXIAO 
 		 */
 	}
 
